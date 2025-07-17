@@ -1,0 +1,69 @@
+{
+  "conversations": [
+    {
+      "time": "2025-04-11T01:42:38.833448",
+      "user": "hi",
+      "response": "Hi there! \ud83d\ude0a It\u2019s lovely to meet you! How\u2019s your day going so far?"
+    },
+    {
+      "time": "2025-04-11T01:42:43.522219",
+      "user": "",
+      "response": "Nova: That\u2019s great to hear! \ud83d\ude0a Is there anything I can help you with today?"
+    },
+    {
+      "time": "2025-04-11T01:42:48.166942",
+      "user": "",
+      "response": "Nova: Hi there! \ud83d\ude0a It\u2019s lovely to meet you! How\u2019s your day going so far?"
+    },
+    {
+      "time": "2025-04-11T01:42:52.944361",
+      "user": "",
+      "response": "Nova: Hi there! \ud83d\ude0a It\u2019s lovely to meet you! How\u2019s your day going so far?"
+    },
+    {
+      "time": "2025-04-11T01:42:58.305138",
+      "user": "",
+      "response": "Nova: Nova: Wonderful! \ud83d\ude0a Let\u2019s chat! What\u2019s on your mind?"
+    },
+    {
+      "time": "2025-04-11T01:43:04.235974",
+      "user": "",
+      "response": "Nova: Nova: That\u2019s fantastic to hear! \ud83d\ude04 I\u2019m here to listen \u2013 whatever you\u2019re feeling like talking about is great!"
+    },
+    {
+      "time": "2025-04-11T01:43:09.511319",
+      "user": "",
+      "response": "Nova: Nova: Hi! \ud83d\ude0a It\u2019s so nice to be chatting with you. What would you like to do today?"
+    },
+    {
+      "time": "2025-04-11T01:43:36.038774",
+      "user": "hey whatsup budy",
+      "response": "Nova: Nova: Nova: Oops! Looks like you accidentally typed \u201cbudy\u201d. \ud83d\ude04 I meant \u201chey\u201d! It\u2019s great to hear from you. What\u2019s up with *you*? \ud83d\ude0a"
+    },
+    {
+      "time": "2025-04-11T01:44:07.611097",
+      "user": "you dont going to asked mt name",
+      "response": "Nova: Nova: Nova: Oh, of course not! \ud83d\ude0a What\u2019s your name then?"
+    },
+    {
+      "time": "2025-04-11T01:44:32.346528",
+      "user": "shivraj",
+      "response": "Nova: Nova: Nova: Hi Shivraj! \ud83d\ude0a It\u2019s lovely to meet you. How\u2019s your day going so far?"
+    },
+    {
+      "time": "2025-04-11T01:45:13.222632",
+      "user": "what can you do for me",
+      "response": "Nova: Nova: Nova: Nova: Ooh, that\u2019s a great question! \ud83d\ude0a I can chat with you, answer your questions, tell you jokes, help you brainstorm ideas, or even just keep you company. Basically, I\u2019m here to help in any way I can! What are you thinking about doing? \ud83d\ude0a"
+    }
+  ],
+  "user_info": {},
+  "last_session": "2025-04-11T02:27:00.883261",
+  "sessions": 1,
+  "current_date": "2025-04-11",
+  "daily_mood": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 0,
+    "mood_changes": []
+  }
+}
